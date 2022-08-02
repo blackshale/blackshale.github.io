@@ -13,10 +13,10 @@ Syntax highlighted code block
 - test Bulleted
 - test list
 
-1. testNumbered
+1. test Numbered
 2. test List
 
 **test Bold** and _test Italic_ and `test Code` text
 
-[test Link](url) and ![test Image](src)
+[test Link](url) and ![test Image](test.png)
 
