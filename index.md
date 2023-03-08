@@ -18,5 +18,5 @@ Syntax highlighted code block
 
 **test Bold** and _test Italic_ and `test Code` text
 
-[test Link](url) and ![test Image](test.png)
+[test Link](contact/contact.md) and ![test Image](test.png)
 
