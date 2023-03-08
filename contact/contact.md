@@ -1,6 +1,6 @@
 ## Contact Me 
 
-Byeongju Jung
+### Byeongju Jung
 
 Senoir Researcher
 
